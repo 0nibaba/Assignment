@@ -5,7 +5,7 @@ from io import BytesIO
 import logging
 
 AZURE_STORAGE_ACCOUNT_NAME = "astrapiaapitask"
-AZURE_STORAGE_ACCOUNT_KEY = "key_goes_here"
+AZURE_STORAGE_ACCOUNT_KEY = "QllBgiNI1HKSWelVbZlMSHZNgj+nqdn1yG08NRgV34Wl82y6IAXqNGpw4KGHfgb9IKN31hUBwMAt+AStHXIkkw=="
 AZURE_STORAGE_CONTAINER_NAME = "container1"
 
 app = FastAPI()
